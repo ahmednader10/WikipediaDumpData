@@ -1,0 +1,7 @@
+org\apache\flink\quickstart\WordCount.class
+org\apache\flink\quickstart\WordCount$Map.class
+org\apache\flink\quickstart\SocketTextStreamWordCount$LineSplitter.class
+org\apache\flink\quickstart\WordCount$XmlInputFormat1$XmlRecordReader.class
+org\apache\flink\quickstart\WordCount$Reduce.class
+org\apache\flink\quickstart\SocketTextStreamWordCount.class
+org\apache\flink\quickstart\WordCount$XmlInputFormat1.class
