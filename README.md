@@ -5,4 +5,4 @@ To run the application you have to run "mvn clean install" in the command line
 and then compile and run the java class WordCount.java
 
 The output should appear in a folder called output which is generated after
-the running the code.
+running the code.

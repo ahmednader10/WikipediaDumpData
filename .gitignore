@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.iws
+log/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+flink-staging/flink-avro/src/test/java/org/apache/flink/api/io/avro/generated/
+flink-runtime-web/web-dashboard/node_modules/
+flink-runtime-web/web-dashboard/bower_components/
